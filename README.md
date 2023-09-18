@@ -11,3 +11,23 @@ Math.ceil(float)
 ```
 Number.isInteger(value)
 ```
+
+```
+5**3 // exponent
+100 % 3 // remainder
+```
+
+```
+let attempts = 10;
+attempts--;
+attempts++;
+```
+
+```
+let x = 5;
+console.log(x++); // 5
+console.log(x); // 6
+
+let x = 5;
+console.log(++x);//6
+```
