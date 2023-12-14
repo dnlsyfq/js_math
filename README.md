@@ -1,4 +1,6 @@
-
+```
+parseInt(readLine(),10) 
+```
 
 ```
 Math.random() // Random no. between 0 and 1
