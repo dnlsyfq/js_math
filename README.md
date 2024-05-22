@@ -8,7 +8,15 @@ Math.random() * 50 // Random no. between 0 and 50
 
 Math.floor(float)
 Math.ceil(float)
+isNaN(var) // check whether a value is NaN , not a number
 ```
+
+```
+if( isNaN(var) || isNaN(var) ){
+  throw Error('Both arguments must be numbers.')
+}
+```
+
 
 ```
 Number.isInteger(value)
